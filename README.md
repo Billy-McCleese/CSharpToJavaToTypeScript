@@ -1,5 +1,6 @@
 # CSharpToJavaToTypeScript
 
+#JavaScript
 ```javascript
 class Dog 
 {
