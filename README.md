@@ -1,7 +1,6 @@
 # CSharpToJavaToTypeScript
 
-#Java
-
+```javascript
 class Dog 
 {
     constructor(name, breed)
@@ -24,4 +23,4 @@ function GetRandomBreed(breeds)
     const index = random.Next(breeds.length);
     return breeds[index];
 }
-
+```
