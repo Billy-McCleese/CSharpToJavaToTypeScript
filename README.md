@@ -1,6 +1,6 @@
 # CSharpToJavaToTypeScript
 
-# JavaScript
+## JavaScript
 ```javascript
 class Dog 
 {
@@ -26,7 +26,7 @@ function GetRandomBreed(breeds)
 }
 ```
 
-# TypeScript
+## TypeScript
 ```TypeScript
 class Dog {
     public Name: string;
